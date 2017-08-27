@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedFreezingRotation", "SharedFreezingRotation.csproj", "{F1254F8B-C05D-E6B6-C560-F1700DF99FE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedFreezingRotation.Editor", "SharedFreezingRotation.Editor.csproj", "{175036D4-9519-A9AD-8DE5-3FF7D7C0AB6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1254F8B-C05D-E6B6-C560-F1700DF99FE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1254F8B-C05D-E6B6-C560-F1700DF99FE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1254F8B-C05D-E6B6-C560-F1700DF99FE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1254F8B-C05D-E6B6-C560-F1700DF99FE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{175036D4-9519-A9AD-8DE5-3FF7D7C0AB6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{175036D4-9519-A9AD-8DE5-3FF7D7C0AB6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{175036D4-9519-A9AD-8DE5-3FF7D7C0AB6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{175036D4-9519-A9AD-8DE5-3FF7D7C0AB6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
